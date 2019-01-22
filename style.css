@@ -8252,3 +8252,8 @@ body.fl-builder-edit .navbar.header-with-topbar.navbar-default:not(.navbar-trans
     padding: 15px 0;
   }
 }
+
+h2 {
+	background-color:red;
+	text-align:center;
+}
